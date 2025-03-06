@@ -1,0 +1,7 @@
+flask
+asyncio
+nest_asyncio
+brotli
+requests
+aiohttp
+playwright
