@@ -201,6 +201,6 @@ This project is provided "as is" for educational purposes. The author is not lia
 
 ---
 
-**[English](#readme) | [Русский](#readme_ru)**
+**[English](README.md) | [Русский](README_ru.md)**
 
 ---
