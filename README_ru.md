@@ -201,6 +201,6 @@ playwright install
 
 ---
 
-**[English](#readme) | [Русский](#readme_ru)**
+**[English](README.md) | [Русский](README_ru.md)**
 
 ---
