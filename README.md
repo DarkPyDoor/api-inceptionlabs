@@ -201,8 +201,8 @@ This project is provided "as is" for educational purposes. The author is not lia
 
 ---
 
-If you like my project or what I do, please consider buying me sweets via Binance Pay: **ID 438 485 773** 🍬
-
 **[English](README.md) | [Русский](README_ru.md)**
 
 ---
+
+If you like my project or what I do, please consider buying me sweets via Binance Pay: **ID 438 485 773** 🍬
